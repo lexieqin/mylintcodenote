@@ -4,25 +4,25 @@
 *   代码:
 
         <public int canCompleteCircuit(int[] gas, int[] cost) {
-                      // write your code here
-                      if (gas == null || gas.length == 0) return 0;
-                      int curr = 0;
-                      int remain = 0;
-                      int start = 0;
-                      int len = gas.length;
-                      for (int i = 0; i < len; i++) {
-                          curr += gas[i];
-                          curr -= cost[i];
-                          remain += gas[i] - cost[i];
-                          if (curr < 0) {
-                              start = i + 1;
-                              curr = 0;
-                          }
-                      }
-                      if (remain >= 0) {
-                          return start;
-                      }        
-                      return -1;
-                  }>
+            // write your code here
+            if (gas == null || gas.length == 0) return 0;
+            int curr = 0;
+            int remain = 0;
+            int start = 0;
+            int len = gas.length;
+            for (int i = 0; i < len; i++) {
+                curr += gas[i];
+                curr -= cost[i];
+                remain += gas[i] - cost[i];
+                if (curr < 0) {
+                    start = i + 1;
+                    curr = 0;
+                }
+            }
+            if (remain >= 0) {
+                return start;
+            }        
+            return -1;
+        }>
 
 
