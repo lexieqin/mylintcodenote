@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b55a941-2980-4847-b770-c2d60d712831" name="Default Changelist" comment="" />
+    <list default="true" id="9b55a941-2980-4847-b770-c2d60d712831" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/array/plus-one.md" beforeDir="false" afterPath="$PROJECT_DIR$/array/plus-one.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,12 +87,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/plus-one.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backtracking/combination-sum.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="122">
+                <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/math/valid-square.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="326">
+                <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,6 +138,8 @@
         <option value="$PROJECT_DIR$/string/flip-game.md" />
         <option value="$PROJECT_DIR$/stack/valid-parentheses.md" />
         <option value="$PROJECT_DIR$/array/plus-one.md" />
+        <option value="$PROJECT_DIR$/backtracking/combination-sum.md" />
+        <option value="$PROJECT_DIR$/math/valid-square.md" />
       </list>
     </option>
   </component>
@@ -137,6 +165,21 @@
               <item name="mylintcodenote" type="b2602c69:ProjectViewProjectNode" />
               <item name="mylintcodenote" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mylintcodenote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mylintcodenote" type="462c0819:PsiDirectoryNode" />
+              <item name="backtracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mylintcodenote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mylintcodenote" type="462c0819:PsiDirectoryNode" />
+              <item name="greedy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mylintcodenote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mylintcodenote" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mylintcodenote" type="b2602c69:ProjectViewProjectNode" />
@@ -190,12 +233,12 @@
       <updated>1556176030360</updated>
       <workItem from="1556176031528" duration="1463000" />
       <workItem from="1556177515514" duration="45000" />
-      <workItem from="1556224899422" duration="5521000" />
+      <workItem from="1556224899422" duration="6987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7029000" />
+    <option name="totallyTimeSpent" value="8495000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,8 +350,28 @@
     <entry file="file://$PROJECT_DIR$/array/plus-one.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backtracking/combination-sum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="122">
+            <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/valid-square.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="326">
+            <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
